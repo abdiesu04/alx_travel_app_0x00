@@ -10,28 +10,6 @@ Welcome to the ALX Travel App! This application is designed to help users plan a
 - **Booking System**: Book flights, hotels, and other travel services.
 - **Notifications**: Receive notifications for upcoming trips and changes.
 
-## Installation
-
-To install and run the ALX Travel App locally, follow these steps:
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/yourusername/alx_travel_app.git
-    cd alx_travel_app
-    ```
-
-2. **Install dependencies**:
-    ```bash
-    npm install
-    ```
-
-3. **Set up environment variables**:
-    Create a `.env` file in the root directory and add the necessary environment variables.
-
-4. **Run the application**:
-    ```bash
-    npm start
-    ```
 
 ## Usage
 
